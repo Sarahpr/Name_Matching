@@ -1,0 +1,70 @@
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Form1.resources
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Properties.Resources.resources
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csproj.GenerateResource.Cache
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Frvarible.resources
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Similarity.resources
+c:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.soundex.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csprojResolveAssemblyReference.cache
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.key_eqcs.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.keymn.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Database.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.main.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.exit1.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.levenshtein.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.levenshtein1.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_1.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_2.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_3.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Le_IM_a.resources
+C:\c#\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_5.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Database.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.exit1.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Form1.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Frvarible.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.keymn.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.key_eqcs.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.levenshtein.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.levenshtein1.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_1.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_2.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_3.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_5.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Le_IM_a.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.main.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Properties.Resources.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Similarity.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.soundex.resources
+C:\Users\dell\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+C:\Users\sara\Desktop\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.exe
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\bin\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.pdb
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csprojResolveAssemblyReference.cache
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Database.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.exit1.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Form1.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Frvarible.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.keymn.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.key_eqcs.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.levenshtein1.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_1.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_2.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_3.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.le_im_5.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Le_IM_a.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.main.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Properties.Resources.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.Similarity.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein_برنامج_يوضح_تطوير_خوارزميــة.soundex.resources
+E:\desktob_new\مشروع التخرج\مشروع التخرج\الجزء العملي\البرنامج الخاص بالمشروع\Levenshtein برنامج يوضح تطوير خوارزميــة\Levenshtein برنامج يوضح تطوير خوارزميــة\obj\x86\Debug\Levenshtein برنامج يوضح تطوير خوارزميــة.csproj.GenerateResource.Cache

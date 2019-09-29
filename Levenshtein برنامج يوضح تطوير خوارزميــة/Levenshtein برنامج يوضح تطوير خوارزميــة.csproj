@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{01EF5285-5975-4925-B059-848A3DC8D9F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Levenshtein_برنامج_يوضح_تطوير_خوارزميــة</RootNamespace>
+    <AssemblyName>Levenshtein برنامج يوضح تطوير خوارزميــة</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database.Designer.cs">
+      <DependentUpon>Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exit1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exit1.Designer.cs">
+      <DependentUpon>exit1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frvarible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frvarible.Designer.cs">
+      <DependentUpon>Frvarible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keymn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keymn.Designer.cs">
+      <DependentUpon>keymn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="key_eqcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_eqcs.Designer.cs">
+      <DependentUpon>key_eqcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="levenshtein1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="levenshtein1.Designer.cs">
+      <DependentUpon>levenshtein1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="le_im_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="le_im_1.Designer.cs">
+      <DependentUpon>le_im_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="le_im_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="le_im_2.Designer.cs">
+      <DependentUpon>le_im_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="le_im_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="le_im_3.Designer.cs">
+      <DependentUpon>le_im_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="le_im_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="le_im_5.Designer.cs">
+      <DependentUpon>le_im_5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Le_IM_a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Le_IM_a.Designer.cs">
+      <DependentUpon>Le_IM_a.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Similarity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Similarity.Designer.cs">
+      <DependentUpon>Similarity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="soundex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="soundex.Designer.cs">
+      <DependentUpon>soundex.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Database.resx">
+      <DependentUpon>Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit1.resx">
+      <DependentUpon>exit1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frvarible.resx">
+      <DependentUpon>Frvarible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keymn.resx">
+      <DependentUpon>keymn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_eqcs.resx">
+      <DependentUpon>key_eqcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="levenshtein1.resx">
+      <DependentUpon>levenshtein1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="le_im_1.resx">
+      <DependentUpon>le_im_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="le_im_2.resx">
+      <DependentUpon>le_im_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="le_im_3.resx">
+      <DependentUpon>le_im_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="le_im_5.resx">
+      <DependentUpon>le_im_5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Le_IM_a.resx">
+      <DependentUpon>Le_IM_a.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Similarity.resx">
+      <DependentUpon>Similarity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="soundex.resx">
+      <DependentUpon>soundex.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\levenshtein1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\المتغيرات.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\الشكلي.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyeq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyeq1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\main2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oiii.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تشابه لوحة المفاتيح.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_Image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\km.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\بmn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\njh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fffr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wwe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\التشابه الصوتي.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\التشابه الصوتي1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\البيانات.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ليفنشتاين.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vs1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uttrf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\الخوارزمية 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\خوارزمية2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\خوارزمية3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\خوارزمية5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hhjh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\li.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LD_IM_SAP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LD_IM_FAP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LD_IM_KEAP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5 LD_IM_AEAP.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LD_MAX_EAP.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
